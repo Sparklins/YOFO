@@ -3,7 +3,7 @@ The official repo of the AAAI 2022 paper: You Only Infer Once: Cross-Modal Meta-
 
 ## Precomputed Results
 [GoogleDrive](https://drive.google.com/drive/folders/1dOKde1s5jY2QGZ_Etzl-frGtW5UvmAwA?usp=sharing)
-
+Results has a slight improvement over those in the paper.
 
 ## Citation
 ```
