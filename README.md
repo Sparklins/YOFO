@@ -7,7 +7,7 @@ The official repo of the AAAI 2022 paper, You Only Infer Once: Cross-Modal Meta-
 Results has a slight improvement over those in the paper.
 
 ## Citation
-```
+```bibtex
 @inproceedings{YOFO,
   title={You Only Infer Once: Cross-Modal Meta-Transfer for Referring Video Object Segmentation},
   author={Li, Dezhuang and Li, Ruoqi and Wang, Lijun and Wang, Yifan and Qi, Jinqing and Zhang, Lu and Liu, Ting and Xu, Qingquan and Lu, Huchuan},
