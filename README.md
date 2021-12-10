@@ -1,5 +1,5 @@
 # YOFO
-The official repo of the AAAI 2022 paper: You Only Infer Once: Cross-Modal Meta-Transfer for Referring Video Object Segmentation
+The official repo of the AAAI 2022 paper, You Only Infer Once: Cross-Modal Meta-Transfer for Referring Video Object Segmentation
 
 ## Precomputed Results
 [GoogleDrive](https://drive.google.com/drive/folders/1dOKde1s5jY2QGZ_Etzl-frGtW5UvmAwA?usp=sharing)
